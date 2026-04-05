@@ -1,0 +1,7 @@
+{
+  "name": "EthnoSphere: Global Cultural Explorer",
+  "description": "A comprehensive educational platform to explore global ethnicities, their clothing, languages, habitats, and significant landmarks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
